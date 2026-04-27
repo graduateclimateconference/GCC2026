@@ -8,7 +8,7 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
 
 The Graduate Climate Conference (GCC) is organized by graduate students, for graduate students, in order to build relationships and increase understanding and collaboration across all climate-related disciplines. To accomplish these goals, the GCC is committed to the health and well-being of our meeting attendees, and organizers. As part of our effort to hold a safe and productive meeting, the GCC recommends all registrants to make sure they are up to date with their COVID-19 and flu vaccinations. 
 
-## The GCC organizers encourage all participants who are feeling unwell to not attend the meeting to protect their health and the health of others.
+**The GCC organizers encourage all participants who are feeling unwell to not attend the meeting to protect their health and the health of others.**
 
 ## Isolation Protocols
 
