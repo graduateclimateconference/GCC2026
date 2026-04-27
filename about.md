@@ -9,20 +9,14 @@ The Graduate Climate Conference (GCC) is a conference for graduate students, org
 
 ### Organizing Institutions
 
-The first GCC was organized by graduate students at the University of Washington in 2006. As the conference has grown in demand and scope, the responsibility of hosting the GCC has rotated between graduate institutions including the Massachusetts Institute of Technology and the Woods Hole Oceanographic Institution. Historically, the GCC has been organized by graduate students from MIT and the University of Washington, and this year’s conference is organized by students from 10 institutions worldwide.
+The first GCC was organized by graduate students at the University of Washington in 2006. As the conference has grown in demand and scope, the responsibility of hosting the GCC has rotated between graduate institutions including the Massachusetts Institute of Technology and the Woods Hole Oceanographic Institution. Historically, the GCC has been organized by graduate students from MIT and the University of Washington, and this year’s conference is organized by students from 9 institutions.
 
-- Cornell University
+- Boston University
+- Clemson University
+- The Ohio State University
 - Massachusetts Institute of Technology
-- Michigan State University
-- Universiti Brunei Darussalam 
-- University of British Columbia
-- University of California, Los Angeles
-- University of Connecticut
-- University of Massachusetts
 - University of Oklahoma 
-- University of Utah
 - University of Virginia 
 - University of Washington
 - University of Wisconsin, Madison
-- Washington State University
 - Woods Hole Oceanographic Institute
