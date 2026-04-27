@@ -6,6 +6,8 @@ cover-img: "/assets/img/WoodsHole1.jpeg"
 ---
 
 # Frequently Asked Questions
+**The Frequently Asked Questions page will be posted soon!**
+<!--
 - __Application__
     - [When does the application open?](#when-does-the-application-open)
     - [When does the application close?](#when-does-the-application-close)
@@ -71,3 +73,4 @@ We plan to follow state and university guidelines regarding COVID-19. Please ref
 ### What if my question is not answered here?
 
 For more information, please feel free to contact the GCC co-chairs at [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com).
+-->
