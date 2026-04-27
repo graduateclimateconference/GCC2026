@@ -3,7 +3,8 @@ layout: page
 title: Schedule 
 cover-img: "/assets/img/path.jpg"
 ---
-
+**The 2026 GCC Schedule will be announced soon**
+<!--
 # Schedule
 **Please Note:** The below schedule is the most up-to-date version. Please refer to this schedule for oral and poster session titles and labelling. Locations for each event have now been posted. 
 <div align="center">
