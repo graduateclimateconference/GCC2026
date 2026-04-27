@@ -43,20 +43,21 @@ cover-img: "/assets/img/WoodsHole2.jpeg"
 </div>-->
 
 
-## The application for GCC 2025 is now closed. 
-Successful applicants will be notified in mid-August 2025. If you applied, you should have recieved an email confirming receipt of your application. If you did not, feel free to reach out at [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com). Approximately 120 participants will be selected to attend the conference. Applicants also may be contacted for additional information at a later date.
+<!-- ## The application for GCC 2025 is now closed. 
+Successful applicants will be notified in mid-August 2025. If you applied, you should have recieved an email confirming receipt of your application. If you did not, feel free to reach out at [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com). Approximately 120 participants will be selected to attend the conference. Applicants also may be contacted for additional information at a later date. -->
 
 
 <!-- ### Application for GCC 2024 are closed! -->
 
 
-<!-- ### Eligibility-->
-<!-- The GCC welcomes applications from graduate students conducting climate-related research in any discipline. __Eligible applicants must be enrolled in a graduate program in Fall 2025.__ We encourage abstract submissions from diverse fields such as atmospheric sciences, biology, environmental management, forestry and fisheries sciences, oceanography, communication, public policy studies, urban planning, public health, and any other climate-related disciplines. The research does not need to be complete and can include proposed research in its early stages. All participants are required to give a research presentation (oral presentation or poster) during the conference with limited spots available for oral presentations. We value and encourage the contributions from individuals froma wide range of backgrounds in STEM.-->
+### Eligibility
+The GCC welcomes applications from graduate students conducting climate-related research in any discipline. __Eligible applicants must be enrolled in a graduate program in Fall 2026.__ We encourage abstract submissions from diverse fields such as atmospheric sciences, biology, environmental management, forestry and fisheries sciences, oceanography, communication, public policy studies, urban planning, public health, and any other climate-related disciplines. The research does not need to be complete and can include proposed research in its early stages. All participants are required to give a research presentation (oral presentation or poster) during the conference with limited spots available for oral presentations. We value and encourage the contributions from individuals froma wide range of backgrounds in STEM.
 
-<!--### Applications for GCC 2025 will begin by mid-May. Please check this site regularly for updates.-->
-<!--### Application Instructions-->
+Applications for GCC 2026 will begin by early-May. Please check this site regularly for updates.
 
-<!--All attendees share either an oral or a poster presentation about their research. There are a limited number of oral presentation slots available. Additional information regarding the presentation formats is available on the [Logistics](https://graduateclimateconference.github.io/logistics/) page.
+### Application Instructions
+
+All attendees share either an oral or a poster presentation about their research. There are a limited number of oral presentation slots available. Additional information regarding the presentation formats is available on the [Logistics](https://graduateclimateconference.github.io/logistics/) page.
 
 In addition to your basic contact information, the application will require you to submit:
 - an abstract (max 250 words) describing your research, reviewed for:
@@ -70,6 +71,6 @@ In addition to your basic contact information, the application will require you 
     - Demonstrated experience or interest in contributing to service, teaching, mentoring, and/or efforts to support diversity and inclusion
     - We are looking for authenticity, not any specific response. Please refrain from restating your resume or CV (we're not looking for a list of awards, accomplishments, etc.).
 - your preference for an oral/poster presentation
-- if you require travel assistance funding to attend the conference-->
+- if you require travel assistance funding to attend the conference
 
 <!--### __Applications for GCC 2025 are now closed.__ --> 
