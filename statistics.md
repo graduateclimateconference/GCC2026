@@ -4,7 +4,8 @@ title: Conference Statistics
 subtitle: The Impact of GCC Through the Years 
 cover-img: "/assets/img/sunset.jpg"
 ---
-
+**GCC Statistics will be posted after the conclusion of the conference.**
+<!--
 The **19th Annual Graduate Climate Conference**, which took place from November 7 - 9, 2025 in Woods Hole, MA, was a success! \
 <br>
 <img src="/assets/img/2025_all.JPG" alt="2025 GCC Attendees">
