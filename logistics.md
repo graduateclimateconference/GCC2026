@@ -4,7 +4,8 @@ title: Basic Info and Conference Logistics
 subtitle: What you need to know about the GCC
 cover-img: "/assets/img/WoodsHole3.jpeg"
 ---
-
+**Conference Logistics will be annouced soon**
+<!--
 # Location
 
 GCC 2025 will be held from __November 7 - 9, 2025 at the [Marine Biological Laboratory](https://www.mbl.edu/), Woods Hole, Massachusetts__. The drive between Woods Hole and Boston is approximately 1.5 hours. Transportation between Boston and Woods Hole will be provided. Please email [gradclimateconference@gmail.com](mailto:gradclimateconference@gmail.com) for any inquries. Thank you!
@@ -95,3 +96,4 @@ Those arriving via train or bus will have to purchase a farecard (<3$) to board 
   </div>
 </div>
 </body> -->
+-->
