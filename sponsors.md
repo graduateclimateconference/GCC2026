@@ -3,7 +3,8 @@ layout: page
 title: Sponsors
 subtitle: Graduate Climate Conference Sponsors
 ---
-
+### Sponsors will be announced soon!
+<!--
 ## We thank our generous sponsors for their support of the GCC!
 
 
