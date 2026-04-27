@@ -4,8 +4,8 @@ title: Keynote Speakers
 cover-img: "/assets/img/path.jpg"
 ---
 
-
-
+**The 2026 GCC Invited Speakers will be announced soon!**
+<!--
 # Dr. Hilary Palevsky
 <img src="/assets/img/Hilary Palevsky1114_crop.jpg" alt="Dr. Hilary Palevsky">
 
@@ -29,4 +29,4 @@ Dr. Loría-Salazar is recognized for her innovative integration of aerosol and g
 As a leader in her field, she plays a pivotal role in efforts to improve smoke behavior prediction, including serving on a national initiative led by the National Academies of Sciences, Engineering, and Medicine (NASEM). Her research has earned prestigious recognition, including the NASA Earth and Space Science Fellowship and awards from the University of Nevada, Reno, and the University of Oklahoma.
 
 Dr. Loría-Salazar holds a Ph.D. and M.S. in Atmospheric Sciences from the University of Nevada, Reno, and a B.S. in Meteorology from the Universidad de Costa Rica. She is dedicated to promoting inclusive scientific collaboration and driving innovation to enhance environmental health and resilience. 
-
+-->
