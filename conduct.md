@@ -25,6 +25,6 @@ Anyone requested to stop unacceptable behavior is expected to comply immediately
 
 ## IV. Reporting 
 If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify the GCC organizing team (gradclimateconference@gmail.com) or any of the GCC co-chairs individually: 
-- Fadime Stemmer (fadime.stemmer@who.edu)
-- Chloe Dean (chloe.dean@whoi.edu)
-- Joey Rotondo (jrotondo@uw.edu)
+- Grace Brown (gabrown@mit.edu)
+- Lilac Hong (zhhong@uw.edu)
+- Katie Webb (krwebb@uw.edu)
