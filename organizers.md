@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Meet the Organizers
-subtitle: GCC 2025 Executive Committee
+subtitle: GCC 2026 Executive Committee
 cover-img: "/assets/img/WoodsHole1.jpeg"
 ---
-
+**GCC 2026 Executive Committee will be annouced soon.**
+<!--
 <link rel="stylesheet" type="text/css" href="/assets/css/grid3.css">
 
 <article class="flow">
