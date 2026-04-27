@@ -20,7 +20,7 @@ Attendees who feel ill or experience any [symptoms of COVID-19](https://www.cdc.
 - Hand sanitation stations will be available onsite for attendees.
 - Self-assessment – If you are feeling unwell and/or experiencing symptoms of COVID-19 or Flu, **you should not attend**.
 
-## 4. Additional Resources
+## Additional Resources
 - [CDC](https://www.cdc.gov/coronavirus/2019-nCoV/index.html){:target="_blank"}
 - [State of Massachusetts COVID-19 Guidelines](https://www.mass.gov/covid-19-updates-and-information){:target="_blank"}
 - [MIT COVID-19 Information](https://now.mit.edu/){:target="_blank"}
