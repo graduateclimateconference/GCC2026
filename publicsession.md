@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Public Session 
-cover-img: "/assets/img/path.jpg"
+cover-img: "/assets/img/UW.jpg"
 ---
 
 # Public Session
