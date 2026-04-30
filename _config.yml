@@ -29,13 +29,13 @@ navbar-links:
   Speakers: "speakers"
   Workshops: "commpartners"
   FAQ: "faq"
-  Statistics: "statistics"
+  # Statistics: "statistics"
   More Info:
     - Code of Conduct: "conduct"
     - Sponsors: "sponsors"
     - Broadening Participation: "broadeningparticipation"
     - Organizers: "organizers"
-    - COVID-19 Protocols: "covid"
+    - COVID-19/Flu Protocols: "covid"
 
     #- Application: "application"
 
