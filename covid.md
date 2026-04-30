@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COVID-19 Policies and Information
-cover-img: "/assets/img/WoodsHole2.jpeg"
+cover-img: "/assets/img/packforest.jpeg"
 ---
 
 # Graduate Climate Conference COVID-19 and Flu Protocols
