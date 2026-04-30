@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentations 
-cover-img: "/assets/img/pack1.jpg"
+cover-img: "/assets/img/pack1.jpeg"
 ---
 
 # Presentation Information 
