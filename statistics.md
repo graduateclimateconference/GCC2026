@@ -2,7 +2,7 @@
 layout: page
 title: Conference Statistics
 subtitle: The Impact of GCC Through the Years 
-cover-img: "/assets/img/sunset.jpg"
+cover-img: "/assets/img/packforest.jpeg"
 ---
 **GCC Statistics will be posted after the conclusion of the conference.**
 <!--
