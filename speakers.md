@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Keynote Speakers
-cover-img: "/assets/img/path.jpg"
+cover-img: "/assets/img/pack1.jpeg"
 ---
 
 **The 2026 GCC Invited Speakers will be announced soon!**
