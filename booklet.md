@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conference Booklet 
-cover-img: "/assets/img/WoodsHole1.jpeg"
+cover-img: "/assets/img/pack1.jpeg"
 ---
 ### The Conference Booklet will be posted soon!
 <!-- # Conference Booklet
