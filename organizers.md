@@ -4,7 +4,6 @@ title: Meet the Organizers
 subtitle: GCC 2026 Executive Committee
 cover-img: "/assets/img/packforest.jpeg"
 ---
-**GCC 2026 Executive Committee will be annouced soon.**
 <link rel="stylesheet" type="text/css" href="/assets/css/grid3.css">
 
 <article class="flow">
@@ -29,7 +28,7 @@ cover-img: "/assets/img/packforest.jpeg"
         <div class="profile">
           <h2 class="profile__name">Katie Webb</h2>
           <p>- Co-chair<br>- Abstracts<br></p>
-          <!-- <img alt="Katie Webb" src="/assets/img/headshots/2026/Katie_Webb_Co_Chair.jpeg" /> -->
+          <img alt="Katie Webb" src="/assets/img/headshots/2026/Katie_Webb_Co_Chair.jpeg" />
         </div>
       </li>
     </ul>
